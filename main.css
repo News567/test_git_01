@@ -1,5 +1,9 @@
-head{
-    font-size: 1.5rem;
-    color: palevioletred;
-    background: #000;
+header{
+    div{
+        font-size: 1.5rem;
+        color: palevioletred;
+        background: #000;
+        text-align: center;
+    }
+    
 }
