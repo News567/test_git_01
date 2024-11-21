@@ -1,9 +1,10 @@
 header{
     div{
-        font-size: 1.5rem;
+        font-size: 2rem;
         color: palevioletred;
         background: #000;
         text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
     }
     
 }
